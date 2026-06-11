@@ -38,6 +38,4 @@
   </a>
 </p>
 
-## 💬 Quote
-> Everyone keeps telling me how my story is supposed to go. Nah, I'm gonna do my own thing
 
