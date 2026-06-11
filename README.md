@@ -6,7 +6,7 @@
 - I am actively seeking an internship opportunity in Data Science & AI, where I can learn, contribute, and grow in a collaborative and dynamic environment.
 
 
-## GitHub Stats & Trophies
+## GitHub Stats
 <p align="center">
   <a href="https://github.com/MilesDao">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MilesDao&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="MilesDao's GitHub Stats" />
